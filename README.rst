@@ -1,3 +1,11 @@
+Goal
+====
+This project is to make a bridge beetwen Metropolis and UrbanSim
+
+Metropolis
+==========
+METROPOLIS is a simulator of road congestion and affluence in public transport, used by organizations such as the "Société du Grand Paris" for the evaluation of projects.
+
 UrbanSim
 ========
 
@@ -24,29 +32,3 @@ Operational UrbanSim models begin with detailed data about a particular region, 
 
 UrbanSim models are used by public agencies, consultancies, and researchers in dozens of cities around the U.S. and world. The core platform is open source, but many operational models make use of additional cloud-hosted model building and visualization tools provided by `UrbanSim Inc. <https://urbansim.com>`__
 
-Learn More
-----------
-
-* `An Introduction to UrbanSim <https://udst.github.io/urbansim/gettingstarted.html#a-gentle-introduction-to-urbansim>`__
-
-* `UrbanSim for San Francisco: An example implementation <https://github.com/UDST/sanfran_urbansim>`__
-
-* `UrbanSim Inc. <https://urbansim.com>`__
-
-Installation
-------------
-
-* ``pip install urbansim``
-
-* ``conda install urbansim --channel conda-forge``
-
-Technical documentation
------------------------
-
-* `Getting started <https://udst.github.io/urbansim/gettingstarted.html>`__
-
-* `Full documentation <https://udst.github.io/urbansim/>`__
-
-* Other `UDST <https://docs.udst.org>`__ libraries
-
-* Documentation for `UrbanCanvas <https://cloud.urbansim.com/docs/>`__, the UrbanSim cloud platform
